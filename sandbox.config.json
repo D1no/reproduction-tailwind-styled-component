@@ -1,0 +1,10 @@
+{
+    "template": "node",
+    "container": {
+        "node": "16",
+        "port": 3000
+    },
+    "startScript": "start",
+    "infiniteLoopProtection": true,
+    "hardReloadOnChange": true
+}
